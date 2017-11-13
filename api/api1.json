@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "API1",
-    "description": "",
+    "description": "Used to manage the things",
     "version": "1.0.0"
   },
   "paths": {
